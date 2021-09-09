@@ -1,0 +1,10 @@
+[package]
+name = "guess_number_game"
+version = "0.1.0"
+authors = ["huni <huhuhuni@yeah.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.6.0"

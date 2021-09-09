@@ -1,0 +1,1 @@
+This is just a simple command line guessing game copied from the tutorial. I just uploaded it because it was my first Rust project. It would at least prove that I had learned Rust and rust's package-management tool cargo.
